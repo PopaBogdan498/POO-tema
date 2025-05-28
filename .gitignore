@@ -1,0 +1,9 @@
+# Build files & binaries
+build/
+bin/
+*.o
+*.exe
+
+# OS-specific
+.DS_Store
+Thumbs.db
